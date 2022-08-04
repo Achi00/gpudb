@@ -3,32 +3,38 @@
         {
             "id": "1",
             "name": "RTX 3060",
-            "Price": "$349"
+            "Price": "$349",
+            "image": "./img/3060.png"
         },
         {
             "id": "2",
             "name": "RTX 3060 TI",
-            "Price": "$399"
+            "Price": "$399",
+            "image": "./img/3060.png"
         },
         {
             "id": "3",
             "name": "RTX 3070",
-            "Price": "$499"
+            "Price": "$499",
+            "image": "./img/3070.png"
         },
         {
             "id": "4",
             "name": "RTX 3070 TI",
-            "Price": "$599"
+            "Price": "$599",
+            "image": "./img/3070ti.png"
         },
         {
             "id": "5",
             "name": "RTX 3080",
-            "Price": "$799"
+            "Price": "$799",
+            "image": "./img/3080.png"
         },
         {
             "id": "6",
             "name": "RTX 3090",
-            "Price": "$1,499"
+            "Price": "$1,499",
+            "image": "./img/3090.png"
         }
     ]
 }
