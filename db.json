@@ -4,37 +4,37 @@
             "id": "1",
             "name": "RTX 3060",
             "Price": "$349",
-            "image": "./img/3060.png"
+            "image": "https://images.evga.com/products/gallery/png/12G-P5-3657-KR_LG_1.png"
         },
         {
             "id": "2",
             "name": "RTX 3060 TI",
             "Price": "$399",
-            "image": "./img/3060.png"
+            "image": "https://images.evga.com/products/gallery/png/12G-P5-3657-KR_LG_1.png"
         },
         {
             "id": "3",
             "name": "RTX 3070",
             "Price": "$499",
-            "image": "./img/3070.png"
+            "image": "https://images.evga.com/products/gallery/png/08G-P5-3755-KL_LG_1.png"
         },
         {
             "id": "4",
             "name": "RTX 3070 TI",
             "Price": "$599",
-            "image": "./img/3070ti.png"
+            "image": "https://images.evga.com/products/gallery/png/08G-P5-3797-KL_LG_1.png"
         },
         {
             "id": "5",
             "name": "RTX 3080",
             "Price": "$799",
-            "image": "./img/3080.png"
+            "image": "https://images.evga.com/products/gallery//png/12G-P5-4865-KL_LG_1.png"
         },
         {
             "id": "6",
             "name": "RTX 3090",
             "Price": "$1,499",
-            "image": "./img/3090.png"
+            "image": "https://images.evga.com/products/gallery/png/24G-P5-3987-KR_XL_1.png"
         }
     ]
 }
